@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplautiaul00wagngoog_0012.png"; bbox 0 0 3300 6050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 380 2737 1124 2909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 380 2737 1124 2909">
+     <span class='ocr_line' id='line_1_1' title="bbox 380 2737 1124 2809; baseline -0.003 -15"><span class='ocrx_word' id='word_1_1' title='bbox 380 2739 436 2807; x_wconf 75' lang='lat' dir='ltr'><em>En,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 452 2738 571 2795; x_wconf 73' lang='lat' dir='ltr'><strong><em>ueniam</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 584 2754 643 2808; x_wconf 77' lang='lat' dir='ltr'><em>pro</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 658 2737 744 2796; x_wconf 70' lang='lat' dir='ltr'><strong><em>lande</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 757 2744 831 2809; x_wconf 76' lang='lat' dir='ltr'><em>peto,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 850 2738 985 2794; x_wconf 70' lang='lat' dir='ltr'><em>laudatus</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1005 2737 1124 2808; x_wconf 53' lang='lat' dir='ltr'><em>ahundq</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 383 2837 927 2909; baseline -0.002 -14"><span class='ocrx_word' id='word_1_8' title='bbox 383 2838 448 2895; x_wconf 78' lang='lat' dir='ltr'><em>Non</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 461 2839 616 2907; x_wconf 63' lang='lat' dir='ltr'><em>fastiditus</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 635 2837 662 2895; x_wconf 74' lang='lat' dir='ltr'><em>ei</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 680 2840 740 2909; x_wconf 76' lang='lat' dir='ltr'><strong><em>tibi,</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 759 2840 851 2909; x_wconf 75' lang='lat' dir='ltr'><em>lector,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 870 2855 927 2895; x_wconf 79' lang='lat' dir='ltr'><em>ero.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1654 6050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1654 6050">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1654 6050; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1654 6050; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
